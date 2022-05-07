@@ -2,7 +2,7 @@
   <h1>Oii! Eu sou a Lídia Sarti, estudante de Tecnologia e Jogos Digitais</h1>
   <p>🍭Atualmente estou estudando desenvolvimento de aplicativos Android</p>
 </div>
-<div aling = "center">
+<divaling = "top">
   <a href = "https://github.com/LidSarti">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LidSarti&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidSarti&layout=compact&langs_count=7&theme=swift"/>
