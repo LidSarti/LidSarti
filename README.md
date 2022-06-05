@@ -6,7 +6,7 @@
   <a href = "https://github.com/LidSarti">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidSarti&layout=compact&langs_count=7&theme=swift"/>
   <div>
-    <p>🍨Meus principais conhecimentos</p>
+    <h2>🍨Meus principais conhecimentos</h2>
     <img align="center" alt="Lid-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img align="center" alt ="Lid-Java" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Lid-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> 
