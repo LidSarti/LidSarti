@@ -1,18 +1,17 @@
 <div>
   <h1>Oii! Eu sou a Lídia Sarti, estudante de Tecnologia e Jogos Digitais</h1>
-  <p>🍭Atualmente estou estudando desenvolvimento de aplicativos Android</p>
+  <p>🍭Atualmente estou estudando desenvolvimento Front-end</p>
 </div>
 <divaling = "top">
   <a href = "https://github.com/LidSarti">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidSarti&layout=compact&langs_count=7&theme=swift"/>
   <div>
     <h2>🍨Meus principais conhecimentos</h2>
-    <img align="center" alt="Lid-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt ="Lid-Java" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="Lid-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> 
-    <img align="center" alt="Lid-Git" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-    <img align="center" alt="Lid-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+    <img align="center" alt="Lid-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img align="center" alt="Lid-HTML" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img align="center" alt="Lid-JS" heigt="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Lid-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt ="Lid-Git" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="right" alt="Gif-Eevee" height="180" style="border-radius:50px;" src="https://issfra-cdn.nonocdn.com/download/file/fra/nonolive-fra/nnphotos/16626624/donaldev-16626624-121"/>
    </div>
 </div>
