@@ -1,13 +1,12 @@
 <div>
   <h1>Oii, eu sou a Lídia Sarti!</h1>
-  <p>👩‍💻 Atualmente estou estudando desenvolvimento Front-end</p>
-  <img align="right" alt="Gif-Planet" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/d3/38/3d/d3383deb116fa51b872df1debfcd4043.gif"/>
+  <p>👩‍💻 Atualmente estou estudando desenvolvimento ASP.NET Core</p>
+  <img align="right" alt="Gif-Planet" height="200" style="border-radius:50px;" src="https://data.whicdn.com/images/266926980/original.gif"/>
 </div>
 <divaling = "top">
   <a href = "https://github.com/LidSarti">
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidSarti&layout=compact&langs_count=7&theme=swift"/>
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LidSarti&show_icons=true&theme=swift"/>
-      
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidSarti&layout=compact&langs_count=7&theme=radical"/>
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LidSarti&show_icons=true&theme=radical"/>
   <div>
     <h2>👩‍🚀 Minhas principais Habilidades</h2>
     <img align="center" alt="Lid-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -20,11 +19,6 @@
     <img align="center" alt ="Lid-VsCode" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg""/>
     <img align="center" alt ="Lid-Git" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="center" alt ="Lid-GitHub" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-   </div>
-   <div>
-    <h2>🛸 Estudando no momento</h2>
-    <img align="center" alt ="Lid-React" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt ="Lid-TypeScript" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    </div>
 </div>
 <div>
