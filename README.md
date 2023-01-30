@@ -1,6 +1,6 @@
 <div>
   <h3> 🐈‍⬛ Aquele em que Lídia está estudando desenvolvimento ASP.NET</h4>
-  <img align="right" alt="Gif-Planet" height="300px" src="https://s2.glbimg.com/L0Rr8q8WHY3jQaecA2HmH18IfGc=/smart/e.glbimg.com/og/ed/f/original/2017/05/15/tumblr_mww3e3zs9j1s3y9slo4_500_1.gif" />
+  <img alt="Gif-Planet" height="300px" src="https://s2.glbimg.com/L0Rr8q8WHY3jQaecA2HmH18IfGc=/smart/e.glbimg.com/og/ed/f/original/2017/05/15/tumblr_mww3e3zs9j1s3y9slo4_500_1.gif" />
   
   
 </div>
