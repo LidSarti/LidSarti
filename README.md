@@ -1,6 +1,5 @@
 <div>
-  <h1>Oii, eu sou a Lídia Sarti!</h1>
-  <p>👩‍💻 Atualmente estou estudando desenvolvimento ASP.NET Core</p>
+  <h3> 👩‍💻 Aquele em que Lídia está estudando desenvolvimento ASP.NET Core e ReactJS</h4>
   <img align="right" alt="Gif-Planet" height="200" style="border-radius:50px;" src="https://data.whicdn.com/images/266926980/original.gif"/>
 </div>
 <divaling = "top">
@@ -11,16 +10,21 @@
     <h2>👩‍🚀 Minhas principais Habilidades</h2>
     <img align="center" alt="Lid-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" alt="Lid-HTML" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-    <img align="center" alt="Lid-JS" heigt="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Lid-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   </div>
+    <img align="center" alt="Lid-Bootstrap" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="Lid-JS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img align="center" alt="Lid-React" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Lid-CSharp" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="Lid-SSMS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
+  </div>
    <div>
     <h2>⭐ Ferramentas</h2>
     <img align="center" alt ="Lid-VsCode" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg""/>
     <img align="center" alt ="Lid-VsCode" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
+    <img align="center" alt ="Lid-Docker" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img align="center" alt ="Lid-Git" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img align="center" alt ="Lid-GitHub" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img align="center" alt ="Lid-Unity" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img align="center" alt ="Lid-Linux" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                          
    </div>
 </div>
 <div>
