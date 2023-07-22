@@ -1,7 +1,7 @@
 <div>
-  <h3>✨ Aquele em que Lídia está estudando DevOps | SRE ✨</h4>
+  <h3>✨ Aquele em que Lídia entrou na UNIVESP ✨</h4>
   <img alt="Gif-Planet" height="300px" src="https://i.pinimg.com/originals/0a/c8/72/0ac8720b49a934f99b0f6dc42d97711b.gif" />
-  
+  <p>Iniciei meus estudos em engenharia de computação</p>
   
 </div>
 <divaling = "top">
