@@ -1,6 +1,6 @@
 <img src="./Banner.png"></img>
 # 👩‍💻 Olá, sou a Lídia Sarti!
-Sou desenvolvedora Full Stack utilizando tecnologias como Javascript, Typescript, ASP.NET, React e Node.js. 
+Sou analista de DevOps com conhecimentos no desenvolvimento Full Stack utilizando tecnologias como Javascript, Typescript, ASP.NET, React e Node.js. 
 
 ## Minhas principais habilidades
 <img src="./gif-teclado.gif"></img>
